@@ -1,7 +1,8 @@
 # Copilot Agent Workflow Notes
 
 A personal log of my experiments, workflows, and reflections using GitHub Copilot Agents.  
-Inspired by [Advanced Context Engineering for Coding Agents (ACE)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md#grounding-context-from-ai-engineer).
+Inspired by [Advanced Context Engineering for Coding Agents (ACE)](https://github.com/humanlayer/advanced-context-engineering-for-coding-agents/blob/main/ace-fca.md#grounding-context-from-ai-engineer).  
+I follow their concepts and adapt their prompts, with slight modifications since Copilot does not support multiple agents directly.
 
 ## 📌 Repository Structure
 - **docs/**: Research notes and learnings  
